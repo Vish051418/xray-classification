@@ -1,0 +1,11 @@
+channels:
+- defaults
+dependencies:
+- python=3.8
+- pytorch=1.12.1
+- torchvision=0.13.1
+- mlflow=1.26.1
+- pip:
+  - mlflow==2.21.3
+  - numpy==1.23.5
+name: xray_env

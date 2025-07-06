@@ -1,0 +1,14 @@
+# Data
+data/
+models/
+
+# MLflow
+mlruns/
+
+# Environments
+venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
